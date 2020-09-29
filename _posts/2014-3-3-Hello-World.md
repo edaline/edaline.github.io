@@ -6,6 +6,7 @@ published: true
 
 Заказать логотип у студии $999, у дизайнера $99, на fiveer до $9 баксов, у нашего ИИ бесплатно😍!
 [Хочу лого!](http://www.google.com){: .btn}
+<button name="button" onclick="http://www.google.com">Edaline рисуй!</button>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
