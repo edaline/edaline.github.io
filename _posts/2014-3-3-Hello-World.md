@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Дрессируем ИИ вместе!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Заказать логотип у студии $999, у дизайнера $99, на fiveer до $9 баксов, у нашего ИИ бесплатно!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
