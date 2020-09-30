@@ -15,7 +15,7 @@ published: true
         for(var i = 0; i < anchors.length; i++) {
             var anchor = anchors[i];
             anchor.onclick = function() {
-                ga('send', 'event', 'buttons', 'click', 'Who wants beta-print');"
+                ga('send', 'event', 'buttons', 'click', 'Who wants beta-print');
             }
         }
     }
