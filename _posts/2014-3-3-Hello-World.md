@@ -9,7 +9,17 @@ published: true
 [Beta-тест тебя Eda!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
 [Free лого, Вперёд Eda!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
 
-
+<script>
+    window.onload = function() {
+        var anchors = document.getElementsByTagName('a');
+        for(var i = 0; i < anchors.length; i++) {
+            var anchor = anchors[i];
+            anchor.onclick = function() {
+                ga('send', 'event', 'buttons', 'click', 'Who wants beta-print');"
+            }
+        }
+    }
+</script>
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
