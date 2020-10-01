@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Дрессируем ИИ вместе!
+title: Как Eda развивается благодаря вам
 published: true
 ---
 ## На email сразу прийдёт alpha-доступ
