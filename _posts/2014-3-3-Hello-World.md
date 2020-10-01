@@ -8,5 +8,8 @@ published: true
 <br>
 [Хочу принты бесплатно!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
 [Beta-тест тебя Eda!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
+<br>
+<br>
+<br>
 [Открой доступ!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
 
