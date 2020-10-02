@@ -3,8 +3,8 @@ layout: post
 title: Как Eda развивается благодаря вам
 published: true
 ---
-Eda научится преверащать ваши слова в дизайны, принты, мокапы и лого. Используя генеративную модель на основе [VAE](https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)){: .linka}, Eda создаст векторную графику.<br><br>[📧Beta-тест тебя Eda!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
-Ссылка для beta-теста автоматически приходит на ваш email📧!
+Eda научится преверащать ваши слова в дизайны, принты, мокапы и лого. Используя генеративную модель на основе [VAE](https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)){: .linka}, Eda создаст векторную графику.<br><br>[📧На email, Beta-тест тебя Eda!](https://docs.google.com/forms/d/e/1FAIpQLSdbNCTrH9p4CPYzERdFSWycf257Bw1L-4pRBpnLNnxA3Pq7HA/viewform){: .btn}
+
 
 
 <br>
