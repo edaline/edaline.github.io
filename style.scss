@@ -20,7 +20,8 @@ html {
 body {
 	background: $white;
   //font: 18px/1.4 $helvetica;
-  font-family: 'Montserrat',Verdana,sans-serif;
+  //font-family: 'Montserrat',Verdana,sans-serif;
+  font-family: "-apple-system",BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
   color: $darkGray;
 }
 
@@ -67,8 +68,8 @@ h4 {
 
 p {
   margin: 15px 0;
-  line-height: 1.5;
-  font-size: 20px;
+  line-height: 1.56;
+  font-size: 18px;
 }
 
 /* #Alizarin Flat Button
