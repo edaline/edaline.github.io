@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Цинк избавляет от акне \U0001F9D1\U0001F3FB‍"
 ---
 
